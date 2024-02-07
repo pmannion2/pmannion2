@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<figure><embed src="https://wakatime.com/share/@018d5c9c-c020-49f9-96a9-ac54a2bd8a54/d9234b0f-e2f9-4d22-9864-1e0a202683ee.svg"></embed></figure>
+
 <!--
 **pmannion2/pmannion2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
