@@ -1,6 +1,8 @@
 ### Hi there 👋
-
-<figure><embed src="https://wakatime.com/share/@018d5c9c-c020-49f9-96a9-ac54a2bd8a54/d9234b0f-e2f9-4d22-9864-1e0a202683ee.svg"></embed></figure>
+<div>
+<figure><embed src="https://wakatime.com/share/@018d5c9c-c020-49f9-96a9-ac54a2bd8a54/f6b64580-da07-476d-bde0-0c1af85078db.svg"></embed></figure>
+  <figure><embed src="https://wakatime.com/share/@018d5c9c-c020-49f9-96a9-ac54a2bd8a54/e6b46a86-9141-4440-bbc5-4894af0d9b47.svg"></embed></figure>
+</div>
 
 <!--
 **pmannion2/pmannion2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
