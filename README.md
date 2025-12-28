@@ -1,5 +1,3 @@
-# Patrick Mannion
-
 **Manufacturing Software Engineer** | Industrial Automation | Full-Stack Development | AI/Agentic Systems
 
 Building the software that powers modern distillery operations—from barrel tracking to bottling lines.
